@@ -1,0 +1,7 @@
+{
+  "name": "hide-file-changes",
+  "version": "0.1.0",
+  "description": "Hide the file diffs under Edit/Write/NotebookEdit rows and under Bash rows that changed files; /hide-changes toggles it",
+  "author": { "name": "Samuel Recker" },
+  "types": "./types/index.d.ts"
+}
